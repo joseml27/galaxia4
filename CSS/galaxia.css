@@ -1,0 +1,61 @@
+.titulo_1{
+    text-align: center;
+    font-size: 40px;
+    color: #4A4242 ;
+   
+}
+
+.mglxx{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.via__lactea{
+    width: 400px;
+    margin-left: 20px;
+    border: #4A4242 solid 2px;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.titulo_66{
+    text-align: center;
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+
+.text_vialactea{
+    text-align: center;
+    font-weight: 500;
+}
+
+.masInfo{
+    display: inline-block;
+    margin-left: 130px;
+    background-color: #E06110;
+    color: white;
+    text-decoration: none;
+    width: 150px;
+    height: 50px;
+    padding-top: 25px;
+    text-align: center;
+    border-radius: 20px;
+
+}
+
+.masInfo2{
+    display: inline-block;
+    margin-left: 130px;
+    background-color: #E06110;
+    color: white;
+    text-decoration: none;
+    width: 150px;
+    height: 50px;
+    padding-top: 30px;
+    text-align: center;
+    border-radius: 20px;
+    
+}
+.emoji{
+    color: orange
+}
